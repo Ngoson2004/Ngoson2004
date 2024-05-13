@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ngoson2004
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Data Science and ML/AI
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Machine Learning, Computer Vision and NLP
 - 📫 How to reach me: bobbyngoson204@gmail.com
