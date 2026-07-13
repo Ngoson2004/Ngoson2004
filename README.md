@@ -142,14 +142,16 @@ End-to-end YOLO waste detection for images and video streams, trained on a custo
 </td>
     <td width="50%" valign="top">
 
-#### 🔎 [Vector Search RAG Engine](https://github.com/Ngoson2004/Vector-search_Engine)
+#### 🧠 [Syncnapse - Organizational AI Memory](https://github.com/cobeo2004/syncnapse)
 
-Production-oriented retrieval pipeline using text embeddings, K-nearest-neighbour search, MongoDB vector storage, and GPT-4o to produce grounded answers with low-latency retrieval.
+A live meeting agent that turns staff prompts and meeting evidence into permanent, company-owned memory through human-approved AI proposals, citation-grounded hybrid retrieval, and multi-agent synchronization.
 
-`OpenAI API` · `MongoDB` · `Embeddings` · `KNN` · `RAG`
+`TypeScript` · `TanStack Start` · `Hono` · `Postgres / pgvector` · `ElectricSQL`
 
-![Search](https://img.shields.io/badge/Search-Semantic%20vector%20retrieval-47A248?style=flat-square)
-![Pipeline](https://img.shields.io/badge/Pipeline-Retrieval%20%2B%20generation-2F81F7?style=flat-square)
+![Governance](https://img.shields.io/badge/AI%20proposes-Humans%20approve-00A98F?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory-Hybrid%20RAG%20%2B%20citations-2F81F7?style=flat-square)
+
+[Launch the live app →](https://syncnapse.up.railway.app/)
 
 </td>
   </tr>
