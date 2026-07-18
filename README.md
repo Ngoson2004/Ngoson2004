@@ -75,16 +75,16 @@ I enjoy the whole journey: understanding a real problem, designing the data and 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/Ngoson2004/Face-Recognition-System)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Ngoson2004/Face-Recognition-System)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://huggingface.co/spaces/COS40007/Computer-Vision-Smart-City)
-[![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ngoson2004/Vector-search_Engine)
+[![OpenAI](https://custom-icon-badges.demolab.com/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ngoson2004/Vector-search_Engine)
 [![MongoDB](https://img.shields.io/badge/MongoDB%20Vector%20Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Ngoson2004/Vector-search_Engine)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Ngoson2004/OpenADMET-ExpansionRX-Challenge)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)](https://ngoson2004.github.io/)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)](https://ngoson2004.github.io/)
 
 **Systems, cloud & delivery**
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://huggingface.co/spaces/COS40007/Computer-Vision-Smart-City)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://huggingface.co/spaces/COS40007/Computer-Vision-Smart-City)
-[![Azure](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/Ngoson2004)
+[![Azure](https://custom-icon-badges.demolab.com/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/Ngoson2004)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)](https://ngoson2004.github.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://ngoson2004.github.io/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/Ngoson2004/SWE30003_Restaurant-Information-System)
