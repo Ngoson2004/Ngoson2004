@@ -151,8 +151,6 @@ A live meeting agent that turns staff prompts and meeting evidence into permanen
 ![Governance](https://img.shields.io/badge/AI%20proposes-Humans%20approve-00A98F?style=flat-square)
 ![Memory](https://img.shields.io/badge/Memory-Hybrid%20RAG%20%2B%20citations-2F81F7?style=flat-square)
 
-[Launch the live app →](https://syncnapse.up.railway.app/)
-
 </td>
   </tr>
   <tr>
