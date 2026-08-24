@@ -53,7 +53,7 @@ I enjoy the whole journey: understanding a real problem, designing the data and 
 - 🛰️ **Computer vision @ Aetosky** - improved Mask R-CNN segmentation accuracy by **15%** across satellite imagery for buildings, roads, trees, and pools.
 - 🧾 **NLP @ Starplan** - led GPT-4o-mini prompt engineering for job-description generation, reaching **0.8-0.9 similarity** against reference JDs.
 - 🚀 **Founding developer @ Unibuz** - shipped a microservice-based university social platform with React, TypeScript, Tailwind CSS, MySQL, and Supabase.
-- 🎓 **Computer Science (AI), Swinburne** - professional degree, **GPA 3.55**, top 15% of cohort, academic-achievement scholarship, and Golden Key member.
+- 🎓 **Computer Science (AI), Swinburne** - professional degree, **GPA 3.6**, top 15% of cohort, academic-achievement scholarship, and Golden Key member.
 
 ---
 
