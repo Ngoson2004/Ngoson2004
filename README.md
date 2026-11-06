@@ -128,16 +128,16 @@ Local agentic system combining a supervisor, planning and work agents, FastMCP t
   <tr>
     <td width="50%" valign="top">
 
-#### 🏙️ [Computer Vision for Smart City](https://huggingface.co/spaces/COS40007/Computer-Vision-Smart-City)
+#### 🛠️ [Trustlane - AI Warranty Coordination](https://github.com/House-of-Imaginations/trustlane)
 
-End-to-end YOLO waste detection for images and video streams, trained on a custom-labelled dataset of 800+ images and served through a containerised real-time API.
+AI warranty coordination for EV dealers and OEMs, combining evidence-gap detection, deterministic compliance checks, and dealer-approved technician voice calls. Separate agents prepare claims and recommend outcomes while people submit and decide.
 
-`YOLO` · `FastAPI` · `Docker` · `Computer Vision`
+`TypeScript` · `Next.js` · `Convex` · `OpenAI Agents SDK` · `ElevenLabs`
 
-![IoU](https://img.shields.io/badge/IoU-95--97%25-00A98F?style=flat-square)
-![Demo](https://img.shields.io/badge/Demo-Live%20on%20Hugging%20Face-FFD21E?style=flat-square)
+![Workflow](https://img.shields.io/badge/Workflow-Evidence%20%2B%20compliance-2F81F7?style=flat-square)
+![Control](https://img.shields.io/badge/AI%20recommends-Humans%20decide-00A98F?style=flat-square)
 
-[Launch the live demo →](https://huggingface.co/spaces/COS40007/Computer-Vision-Smart-City)
+[Visit the landing page →](https://trustlane.house-of-imaginaries.com/)
 
 </td>
     <td width="50%" valign="top">
@@ -150,6 +150,8 @@ A live meeting agent that turns staff prompts and meeting evidence into permanen
 
 ![Governance](https://img.shields.io/badge/AI%20proposes-Humans%20approve-00A98F?style=flat-square)
 ![Memory](https://img.shields.io/badge/Memory-Hybrid%20RAG%20%2B%20citations-2F81F7?style=flat-square)
+
+[Visit the landing page →](https://www.syncnapse-agents.xyz/)
 
 </td>
   </tr>
@@ -167,13 +169,16 @@ Full-stack restaurant operations platform for ordering, menus, reservations, kit
 </td>
     <td width="50%" valign="top">
 
-#### 🌐 [Personal Portfolio](https://ngoson2004.github.io/)
+#### 🏙️ [Computer Vision for Smart City](https://huggingface.co/spaces/COS40007/Computer-Vision-Smart-City)
 
-My interactive portfolio featuring professional experience, selected AI and software projects, technical skills, and ways to get in touch.
+End-to-end YOLO waste detection for images and video streams, trained on a custom-labelled dataset of 800+ images and served through a containerised real-time API.
 
-`React` · `JavaScript` · `Tailwind CSS` · `Bootstrap`
+`YOLO` · `FastAPI` · `Docker` · `Computer Vision`
 
-[Visit the portfolio →](https://ngoson2004.github.io/)
+![IoU](https://img.shields.io/badge/IoU-95--97%25-00A98F?style=flat-square)
+![Demo](https://img.shields.io/badge/Demo-Live%20on%20Hugging%20Face-FFD21E?style=flat-square)
+
+[Launch the live demo →](https://huggingface.co/spaces/COS40007/Computer-Vision-Smart-City)
 
 </td>
   </tr>
