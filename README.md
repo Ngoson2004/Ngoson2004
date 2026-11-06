@@ -29,7 +29,9 @@
 
 ### 👋 About me
 
-I build **AI agents, machine-learning systems, and data pipelines** that turn complex data into useful products. My work spans graph neural networks for molecular property prediction, multimodal AI for manufacturing, computer vision, RAG, and full-stack delivery.
+I'm an **Applied AI Scientist at Starbound** and a **PhD researcher at Monash University**, working across **agentic AI, knowledge representation, and requirements engineering**.
+
+My PhD investigates how AI can turn complex source documents into **semantically rich, traceable, and verifiable engineering requirements**, with a focus on regulatory compliance in software and systems engineering. At Starbound, I apply these ideas to space mission briefs and standards, connecting research with practical engineering workflows. My broader experience spans predictive machine learning, graph neural networks, multimodal AI, and full-stack delivery.
 
 At **CSIRO Manufacturing**, I developed an AI application for drug discovery, engineered molecular representations for graph neural networks, and scaled experiments with **HPC + SLURM**. The project placed **13th among 370+ global entries** in the OpenADMET + ExpansionRx blind challenge with a macro-averaged relative absolute error of **0.588**.
 
@@ -48,6 +50,8 @@ I enjoy the whole journey: understanding a real problem, designing the data and 
 
 ### ✨ Selected impact
 
+- 🎓 **PhD research @ Monash University** - investigating AI-assisted requirements engineering and regulatory compliance, including how to capture implicit requirements and evaluate their semantic richness, traceability, and verifiability.
+- 🛰️ **Applied AI Scientist @ Starbound** - developed AI-assisted requirements engineering functionality that **reduced documentation time by 40%** while **capturing 98% of engineering implications** from Rideshare mission briefs and ECSS regulations and standards.
 - 🧪 **Drug discovery @ CSIRO** - trained multitask Chemprop GNNs for ADMET prediction, curated large molecular datasets, tuned hyperparameters, and ran scalable experiments on HPC infrastructure.
 - 🏭 **Multimodal AI @ FPT Software** - fine-tuned BLIP on image/question-answer data for automated meter reading in manufacturing.
 - 🛰️ **Computer vision @ Aetosky** - improved Mask R-CNN segmentation accuracy by **15%** across satellite imagery for buildings, roads, trees, and pools.
