@@ -127,6 +127,8 @@ Local agentic system combining a supervisor, planning and work agents, FastMCP t
 ![Agent](https://img.shields.io/badge/Architecture-Supervisor%20%2B%20sub--agents-412991?style=flat-square)
 ![Vision](https://img.shields.io/badge/Vision-Face%20%2B%20liveness-EE4C2C?style=flat-square)
 
+[Watch the video demo →](https://youtu.be/a-WlsCGX64U)
+
 </td>
   </tr>
   <tr>
